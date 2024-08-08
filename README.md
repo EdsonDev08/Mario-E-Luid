@@ -1,4 +1,4 @@
-<h1Maio e Luid</h1>
+<h1>Mario e Luid</h1>
 <br>
 <br>
-<h2>Esse foi um projeto ilustrativo de uma empresa de encanamentos</h2>
+<h3>Esse foi um projeto ilustrativo usando a criatividade para demonstrar conhecimento em Html e Css</h3>
